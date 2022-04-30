@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FormulaCarbon
 - 👀 I’m interested in Science and Robotics
-- 🌱 I’m currently learning FTC Robotics
-- 💞️ I’m looking to collaborate on FTC Robotics
+- 🌱 I’m currently learning s2py
 
 
 <!---
