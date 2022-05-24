@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @FormulaCarbon
-- 👀 I’m interested in Science and Robotics
-- 🌱 I’m currently learning s2py
+- I make stuff that is useful for anyone and everyone
+
+**Current Projects**
+- PlutoniumNetwork
+- pythings
+
+
 
 
 <!---
