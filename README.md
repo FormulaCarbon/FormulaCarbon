@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @FormulaCarbon
-- I make stuff that is useful for anyone and everyone
-
-**Current Projects**
-- PlutoniumNetwork
-- pythings
-
+- I make stuff
 
 
 
